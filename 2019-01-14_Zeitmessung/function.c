@@ -15,7 +15,7 @@
 #include "LCD_student.h"
 
 /************************************************************************/
-/* initialize variables                                                  */
+/* initialize variables                                                 */
 /************************************************************************/
 volatile int counterMilliSeconds = 0;
 volatile int counterSeconds = 0;
