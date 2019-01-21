@@ -2,7 +2,7 @@
  * LCD_student.h
  *
  * Created: 03-Jan-19 18:40:34
- *  Author: Ambroise Broxtermann
+ * Author: Ambroise Broxtermann
  */ 
 
 

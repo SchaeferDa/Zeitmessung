@@ -2,7 +2,7 @@
  * hwconf.c
  *
  * Created: 07-Jan-19 09:00:00
- * Author: Daniel Schäfer
+ * Authors: Daniel Schäfer, Christian Koch
  * Contact: code@schaeferservices.de
  */ 
 

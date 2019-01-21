@@ -2,7 +2,7 @@
  * function.h
  *
  * Created: 20.01.2019 16:26:34
- *  Author: Daniel Schäfer
+ * Authors: Daniel Schäfer, Christian Koch
  * Contact: code@schaeferservices.de
  */ 
 
