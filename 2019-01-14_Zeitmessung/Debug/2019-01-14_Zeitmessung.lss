@@ -128,7 +128,7 @@ Disassembly of section .text:
 000000d8 <confTimer>:
 
 /************************************************************************/
-/* configuration for Timer0		                                        */
+/* configuration for Timer0                                             */
 /************************************************************************/
 void confTimer()
 {

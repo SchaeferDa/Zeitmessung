@@ -37,7 +37,7 @@
 #define BUTTON_PRESSED() ((PIN_BUTTON & (1 << MASK_BUTTON)) == (1 << MASK_BUTTON))
 
 /************************************************************************/
-/* hardware defines for led											    */
+/* hardware defines for led                                             */
 /************************************************************************/
 #define DDR_LED DDRB
 #define PIN_LED PINB
