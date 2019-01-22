@@ -1,7 +1,7 @@
 ﻿/*
  * function.c
  *
- * Created: 20.01.2019 16:26:47
+ * Created: 20.01.2019 16:26:48
  * Authors: Daniel Schäfer, Christian Koch
  * Contact: code@schaeferservices.de
  */ 
