@@ -1,1 +1,1 @@
-Zeitmessung
+Zeitmessung C Programm
