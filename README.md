@@ -148,5 +148,5 @@ Einstellung für die Auslösezeit des Tasters, nachdem der Reset auslöst:
 
 > **Reset des Systems:**
 > 
-> Um das gesamte System zurückzusetzten, muss der Taster 3 Sekunden (Standardeinstellung siehe [Mögliche Benutzereinstellungen] (https://github.com/schaeferservices/Zeitmessung/blob/master/README.md#m%C3%B6gliche-benutzereinstellungen)) lang gedrückt werden. Anschließend müssen die Anweisungen auf dem Display zur Sensorüberprüfung > befolgt werden. (siehe Punkt 1.)
+> Um das gesamte System zurückzusetzten, muss der Taster 3 Sekunden (Standardeinstellung siehe [Mögliche Benutzereinstellungen](https://github.com/schaeferservices/Zeitmessung/blob/master/README.md#m%C3%B6gliche-benutzereinstellungen)) lang gedrückt werden. Anschließend müssen die Anweisungen auf dem Display zur Sensorüberprüfung > befolgt werden. (siehe Punkt 1.)
 
