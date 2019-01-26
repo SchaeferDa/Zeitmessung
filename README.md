@@ -3,7 +3,7 @@
 
 ## Einführung
 
-Dieses Projekt wurde von der gymnasialen Oberstufe des [BKT Lüdenscheid](http://www.bkt-luedenscheid.de) in Kooperation mit dem Unternehmen [di-soric GmbH & Co. KG](https://www.di-soric.com) initiert und wurde von [Christian Koch](https://github.com/KochChristian) und [Daniel Schäfer](https://github.com/schaeferservices) geleitet.
+Dieses Projekt wurde von der gymnasialen Oberstufe des [BKT Lüdenscheid](http://www.bkt-luedenscheid.de) in Kooperation mit dem Unternehmen [di-soric GmbH & Co. KG](https://www.di-soric.com) initiert und wurde von [Christian Koch](https://github.com/KochChristian) und [Daniel Schäfer](https://github.com/schaeferservices) umgesetzt.
 
 ## Projektziel
 
