@@ -93,7 +93,7 @@ Die gemessene Zeit wird im Display mit einer Genauigkeit von 1/1000s angezeigt. 
 *Der Benutzer kann im Header [function.h](https://github.com/schaeferservices/Zeitmessung/blob/master/2019-01-14_Zeitmessung/function.h) folgende Einstellungen vornehmen:*
 
 Einstellung der Zeit, in der die Sensoren auf Funktion geprüft werden:
-```csharp=
+```javascript=
 /************************************************************************/
 /* setting for sensor check time in seconds                             */
 /************************************************************************/
@@ -140,11 +140,13 @@ Einstellung für die Auslösezeit des Tasters, nachdem der Reset auslöst:
 3. Stoppen der Messung durch Auslösen des zweiten Sensors.
 
 > **Hinweis:**
+> 
 > Beim Start einer Messung leuchtet die Status-LED dauerhaft.
 > Nach Ablauf der Wartezeit blinkt diese bis die Messung gestoppt wird.
 
 4. Nach dem Stoppen der Messung wird die Zeit auf dem Display ausgegeben. Um eine neue Messung zu starten, muss der Taster einmal kurz gedrückt werden.
 
 > **Reset des Systems:**
-> Um das gesamte System zurückzusetzten, muss der Taster 3 Sekunden (Standardeinstellung siehe [Mögliche Benutzereinstellungen]> (#M%C3%B6gliche-Benutzereinstellungen)) lang gedrückt werden. Anschließend müssen die Anweisungen auf dem Display zur Sensorüberprüfung > befolgt werden. (siehe Punkt 1.)
+> 
+> Um das gesamte System zurückzusetzten, muss der Taster 3 Sekunden (Standardeinstellung siehe [Mögliche Benutzereinstellungen] (#Mögliche-Benutzereinstellungen)) lang gedrückt werden. Anschließend müssen die Anweisungen auf dem Display zur Sensorüberprüfung > befolgt werden. (siehe Punkt 1.)
 
