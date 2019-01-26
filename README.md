@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Projektdokumentation: Zeitmessung
 
 ## Einführung
