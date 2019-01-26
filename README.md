@@ -55,36 +55,33 @@ Die gemessene Zeit wird im Display mit einer Genauigkeit von 1/1000s angezeigt. 
 
 ![](https://i.imgur.com/pU1pbBh.png)
 
-:::info
-### Eingesetzte Hardware:
-- [Arduino Nano](https://store.arduino.cc/arduino-nano) ([Atmel ATmega 328P](https://www.microchip.com/wwwproducts/en/ATmega328P)) als Mikrocontroller
-- [Reflexionslichtschranke di-soric OR 31 K 5000 P3-T4](https://www.di-soric.com/de/OR-31-K-5000-P3-T4-37530.html)
-- LCD Display 1602
-- 12V Netzteil DVE Switching Adapter
-- 2x E257058 Style 20549 4x0,25mm² Anschlusskabel
-- 3D gedrucktes Gehäuse
-- 4 Holzstative á 1,00m
-- PCB mit elektronischen Bauteilen
-:::
+
+> ### Eingesetzte Hardware:
+> - [Arduino Nano](https://store.arduino.cc/arduino-nano) ([Atmel ATmega 328P](https://www.microchip.com/wwwproducts/en/ATmega328P)) als > Mikrocontroller
+> - [Reflexionslichtschranke di-soric OR 31 K 5000 P3-T4](https://www.di-soric.com/de/OR-31-K-5000-P3-T4-37530.html)
+> - LCD Display 1602
+> - 12V Netzteil DVE Switching Adapter
+> - 2x E257058 Style 20549 4x0,25mm² Anschlusskabel
+> - 3D gedrucktes Gehäuse
+> - 4 Holzstative á 1,00m
+> - PCB mit elektronischen Bauteilen
 
 ## Softwareseitige Umsetzung
 
 ### State Machine
 ![](https://i.imgur.com/j070Ehj.png)
 
-:::info
-### Eingesetzte externe Software:
-- IDE: [Atmel Studio 7](https://www.microchip.com/mplab/avr-support/atmel-studio-7)
-- [GIT-Repository](https://github.com/schaeferservices)
-- LCD-Library libLCD162CstaticLib.a (Autor: A. Broxtermann)
-:::
+> ### Eingesetzte externe Software:
+> - IDE: [Atmel Studio 7](https://www.microchip.com/mplab/avr-support/atmel-studio-7)
+> - [GIT-Repository](https://github.com/schaeferservices)
+> - LCD-Library libLCD162CstaticLib.a (Autor: A. Broxtermann)
 
 > Die [Software](https://github.com/schaeferservices/Zeitmessung) wurde in C geschrieben und modular aufgebaut. 
 > Es existieren diese 4 Module 
 > - [main.c](https://github.com/schaeferservices/Zeitmessung/blob/master/2019-01-14_Zeitmessung/main.c) (Hauptmodul)
-> - [hwconf.h](https://github.com/schaeferservices/Zeitmessung/blob/master/2019-01-14_Zeitmessung/hwconf.h) (Header zur Hardwarekonfiguration)
-> - [function.c](https://github.com/schaeferservices/Zeitmessung/blob/master/2019-01-14_Zeitmessung/function.c) (Modul für Funktionen des Hauptprogramms)
-> - [function.h](https://github.com/schaeferservices/Zeitmessung/blob/master/2019-01-14_Zeitmessung/function.h) (Header zur Einbindung des function.c Moduls)
+> - [hwconf.h](https://github.com/schaeferservices/Zeitmessung/blob/master/2019-01-14_Zeitmessung/hwconf.h) (Header zur > Hardwarekonfiguration)
+> - [function.c](https://github.com/schaeferservices/Zeitmessung/blob/master/2019-01-14_Zeitmessung/function.c) (Modul für Funktionen > des Hauptprogramms)
+> - [function.h](https://github.com/schaeferservices/Zeitmessung/blob/master/2019-01-14_Zeitmessung/function.h) (Header zur Einbindung > des function.c Moduls)
 > 
 > Die [Software](https://github.com/schaeferservices/Zeitmessung) wurde mit GIT versionsverwaltet. 
 > Das Repository ist öffentlich auf GitHub zu finden.
@@ -148,8 +145,6 @@ Einstellung für die Auslösezeit des Tasters, nachdem der Reset auslöst:
 
 4. Nach dem Stoppen der Messung wird die Zeit auf dem Display ausgegeben. Um eine neue Messung zu starten, muss der Taster einmal kurz gedrückt werden.
 
-:::info
-**Reset des Systems:**
-Um das gesamte System zurückzusetzten, muss der Taster 3 Sekunden (Standardeinstellung siehe [Mögliche Benutzereinstellungen](#M%C3%B6gliche-Benutzereinstellungen)) lang gedrückt werden. Anschließend müssen die Anweisungen auf dem Display zur Sensorüberprüfung befolgt werden. (siehe Punkt 1.)
-:::
+> **Reset des Systems:**
+> Um das gesamte System zurückzusetzten, muss der Taster 3 Sekunden (Standardeinstellung siehe [Mögliche Benutzereinstellungen]> (#M%C3%B6gliche-Benutzereinstellungen)) lang gedrückt werden. Anschließend müssen die Anweisungen auf dem Display zur Sensorüberprüfung > befolgt werden. (siehe Punkt 1.)
 
