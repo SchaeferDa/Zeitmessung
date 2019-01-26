@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Projektdokumentation: Zeitmessung
 
 ## Einführung
@@ -151,3 +152,6 @@ Einstellung für die Auslösezeit des Tasters, nachdem der Reset auslöst:
 **Reset des Systems:**
 Um das gesamte System zurückzusetzten, muss der Taster 3 Sekunden (Standardeinstellung siehe [Mögliche Benutzereinstellungen](#M%C3%B6gliche-Benutzereinstellungen)) lang gedrückt werden. Anschließend müssen die Anweisungen auf dem Display zur Sensorüberprüfung befolgt werden. (siehe Punkt 1.)
 :::
+=======
+Zeitmessung C Programm
+>>>>>>> master
