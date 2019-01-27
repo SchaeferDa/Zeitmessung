@@ -131,11 +131,11 @@ Einstellung für die Auslösezeit des Tasters, nachdem der Reset auslöst:
 
 1. Sensoren und Reflektoren jeweils gegenüber aufstellen.
 2. Anschließen der beiden Sensoren an die Steuereinheit mithilfe der beiden Kabel.
-3. Anschließen der 12V Stromversorgung mihilfe des beiliegenden Netzteils.
+3. Anschließen der 12V Stromversorgung mithilfe des beiliegenden Netzteils.
 
 ### Bedienung
 
-1. Sensorüberprüfung (Hinweise auf dem Display befolgen.)
+1. Sensorüberprüfung (Hinweise auf dem Display befolgen).
 2. Starten der Messung durch Auslösen des ersten Sensors.
 3. Stoppen der Messung durch Auslösen des zweiten Sensors.
 
