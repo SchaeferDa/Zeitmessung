@@ -2,7 +2,7 @@
  * main.c
  *
  * Created: 14-Jan-19 09:00:00
- * Authors: Daniel Schäfer, Christian Koch
+ * Authors: Daniel Schäfer, Christian Koch, Sebastian Schaffring
  * Contact: code@schaeferservices.de
  */ 
 

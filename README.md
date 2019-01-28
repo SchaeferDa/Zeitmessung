@@ -3,7 +3,7 @@
 
 ## Einführung
 
-Dieses Projekt wurde von der gymnasialen Oberstufe des [BKT Lüdenscheid](http://www.bkt-luedenscheid.de) in Kooperation mit dem Unternehmen [di-soric GmbH & Co. KG](https://www.di-soric.com) initiert und wurde von [Christian Koch](https://github.com/KochChristian) und [Daniel Schäfer](https://github.com/schaeferservices) umgesetzt.
+Dieses Projekt wurde von der gymnasialen Oberstufe des [BKT Lüdenscheid](http://www.bkt-luedenscheid.de) in Kooperation mit dem Unternehmen [di-soric GmbH & Co. KG](https://www.di-soric.com) initiert und wurde von [Christian Koch](https://github.com/KochChristian), Sebastian Schaffring und [Daniel Schäfer](https://github.com/schaeferservices) umgesetzt.
 
 ## Projektziel
 
@@ -149,4 +149,3 @@ Einstellung für die Auslösezeit des Tasters, nachdem der Reset auslöst:
 > **Reset des Systems:**
 > 
 > Um das gesamte System zurückzusetzten, muss der Taster 3 Sekunden (Standardeinstellung siehe [Mögliche Benutzereinstellungen](https://github.com/schaeferservices/Zeitmessung/README.md#m%C3%B6gliche-benutzereinstellungen)) lang gedrückt werden. Anschließend müssen die Anweisungen auf dem Display zur Sensorüberprüfung > befolgt werden. (siehe Punkt 1.)
-

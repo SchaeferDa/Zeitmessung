@@ -2,7 +2,7 @@
  * function.c
  *
  * Created: 20.01.2019 16:26:49
- * Authors: Daniel Schäfer, Christian Koch
+ * Authors: Daniel Schäfer, Christian Koch, Sebastian Schaffring
  * Contact: code@schaeferservices.de
  */ 
 
