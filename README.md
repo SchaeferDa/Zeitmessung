@@ -5,6 +5,8 @@
 
 Dieses Projekt wurde von der gymnasialen Oberstufe des [BKT Lüdenscheid](http://www.bkt-luedenscheid.de) in Kooperation mit dem Unternehmen [di-soric GmbH & Co. KG](https://www.di-soric.com) initiert und wurde von [Christian Koch](https://github.com/KochChristian), Sebastian Schaffring und [Daniel Schäfer](https://github.com/schaeferservices) umgesetzt.
 
+Kontakt: [daniel.schaefer.gost61@schueler.bkt-luedenscheid.de](mailto:daniel.schaefer.gost61@schueler.bkt-luedenscheid.de)
+
 ## Projektziel
 
 ### Grundsätzliche Idee
